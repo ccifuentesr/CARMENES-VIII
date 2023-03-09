@@ -33,7 +33,7 @@ The *CARMENES input catalogue of M dwarfs* series contains:
 
 > The files are self-contained, self-consistent, homogenoeusly formatted, fairly self-explanatory.
 
-- Clone this repo to your local machine using `git clone https://github.com/ccifuentesr/CARMENES-IX`, or
+- Clone this repo to your local machine using `git clone https://github.com/ccifuentesr/CARMENES-VIII`, or
 - Download this repo as a .zip and run the scripts in your local machine.
 - The installation of some basic libraries is a prerequisite: `numpy`, `scipy`, `astropy`, `matplotlib` and `pyperclip`. Other modules are included in the Python distribution and do not need additional installation (e.g., `csv`).
 
