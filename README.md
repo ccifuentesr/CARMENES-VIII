@@ -4,14 +4,14 @@
 
 The *CARMENES input catalogue of M dwarfs* series contains:
 
-- <a href="#" target="_blank">**CARMENES input catalogue of M dwarfs VIII. Multiplicity from close spectroscopic binaries to ultrawide systems**</a>  **Cifuentes et al 2023, in prep** (this work).
-- <a href="#" target="_blank">CARMENES input catalogue of M dwarfs VII. To be defined</a>  In prep.
-- <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.116P/abstract" target="_blank">CARMENES input catalogue of M dwarfs VI. A time-resolved Ca II H&K catalog from archival data</a>  Perdelwitz et al 2021.
-- <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...642A.115C/abstract" target="_blank">CARMENES input catalogue of M dwarfs V. Luminosities, colours, and spectral energy distributions</a>  Cifuentes et al 2020.
-- <a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...621A.126D/abstract" target="_blank">*CARMENES input catalogue of M dwarfs. IV. New rotation periods from photometric time series* </a> Díez Alonso et al. 2019.
-- <a href="https://ui.adsabs.harvard.edu/abs/2018A%26A...614A..76J/abstract" target="_blank">*CARMENES input catalogue of M dwarfs. III. Rotation and activity from high-resolution spectroscopic observations </a> Jeffers et al. 2018.
-- <a href="https://ui.adsabs.harvard.edu/abs/2017A%26A...597A..47C/abstract" target="_blank">*CARMENES input catalogue of M dwarfs. II. High-resolution imaging with FastCam*</a> Cortés-Contreras et al. 2017.
-- <a href="https://ui.adsabs.harvard.edu/abs/2015A%26A...577A.128A/abstract" target="_blank">*CARMENES input catalogue of M dwarfs. I. Low-resolution spectroscopy with CAFOS*</a> Alonso-Floriano et al. 2015.
+- <a href="#" target="_blank">**VIII. Multiplicity from close spectroscopic binaries to ultrawide systems**</a>  **Cifuentes et al 2023, in prep** (this work).
+- <a href="#" target="_blank">VII. To be defined</a>  In prep.
+- <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...652A.116P/abstract" target="_blank">VI. A time-resolved Ca II H&K catalog from archival data</a>  Perdelwitz et al 2021.
+- <a href="https://ui.adsabs.harvard.edu/abs/2020A%26A...642A.115C/abstract" target="_blank">V. Luminosities, colours, and spectral energy distributions</a>  Cifuentes et al 2020.
+- <a href="https://ui.adsabs.harvard.edu/abs/2019A%26A...621A.126D/abstract" target="_blank">IV. New rotation periods from photometric time series </a> Díez Alonso et al. 2019.
+- <a href="https://ui.adsabs.harvard.edu/abs/2018A%26A...614A..76J/abstract" target="_blank">III. Rotation and activity from high-resolution spectroscopic observations </a> Jeffers et al. 2018.
+- <a href="https://ui.adsabs.harvard.edu/abs/2017A%26A...597A..47C/abstract" target="_blank">II. High-resolution imaging with FastCam</a> Cortés-Contreras et al. 2017.
+- <a href="https://ui.adsabs.harvard.edu/abs/2015A%26A...577A.128A/abstract" target="_blank">I. Low-resolution spectroscopy with CAFOS</a> Alonso-Floriano et al. 2015.
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
