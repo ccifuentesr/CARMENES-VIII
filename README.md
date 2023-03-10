@@ -54,14 +54,13 @@ It contains the following columns (columns for bibliographic references of each 
 | Multiplicity (description) | `Type	Class	Component	System	SB	SB_ref	object_type	Notes_multiplicity`|
 | Multiplicity (WDS) | `WDS_id	WDS_disc	WDS_comp	WDS_obs1	WDS_obs2	WDS_nobs	WDS_pa2	WDS_sep2	WDS_mag1	WDS_mag2`|
 | Multiplicity (basic parameters) | `a_au	rho	theta q	Porb_d	ePorb_d Ug_J	eUg_J`|
-| Fundamental parameters | `M_Msol	eM_Msol	R_Rsol	eR_Rsol Teff_K	eTeff_K	loggelogg	L_LsoleL_Lsol	MG_mag	eMG_mag`|
+| Fundamental parameters | `M_Msol	eM_Msol	R_Rsol	eR_Rsol Teff_K	eTeff_K	logg elogg	L_Lsol eL_Lsol	MG_mag	eMG_mag`|
 | Criteria for physical parity | `muratio	deltaPA	deltad	crit_parity	crit_ruwe	crit_ipd	crit_rv	crit_rv_error	crit_fmp	crit_non_single	crit_DR3_non_single	Candidate`|
 | Booleans | `Bool_rho	Bool_new	HR_num	Bool_HR	Bool_MM	Bool_Lbol	Bool_DR2	Bool_FGK	Bool_WD	Bool_OBA	Bool_NMS	Bool_UCD	Bool_widest`|
 | Catalogue IDs | `GaiaDR3_id	GaiaDR2_id	2MASS_id	AllWISE_id` |
 | *Gaia* astromtric data | `ra	ra_error	dec	dec_error	parallax	parallax_error pmra	pmra_error	pmdec	pmdec_error rv	rv_error ruwe	l	b	`|
 | Photometric data | `BP_mag	eBP_mag	G_mag	eG_mag	RP_mag	eRP_mag	J_mag	eJ_mag	H_mag	eH_mag	Ks_mag	eKs_mag	Qf_2M	W1mag	e_W1mag	W2mag	e_W2mag	W3mag	e_W3mag	W4mag	e_W4mag	Qf_W`|
 | *Gaia* statistical data | `astrometric_excess_noise	astrometric_excess_noise_sig	phot_bp_rp_excess_factor	phot_bp_n_blended_transits	phot_rp_n_blended_transits	phot_variable_flag	rv_chisq_pvalue	rv_amplitude_robust	rv_nb_transits	rv_renormalised_gof	astrometric_n_obs_al	astrometric_n_good_obs_al	ipd_gof_harmonic_amplitude	ipd_frac_multi_peak	duplicated_source` |
-| --- | --- |
 
 ---
 
