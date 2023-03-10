@@ -45,7 +45,7 @@ The following directories:
 - Directory ./: Includes all the code files named as `cif03.xxx_***.py`, where `xxx` defines the usage for the particular code ('plot', 'utilities', 'calculator', 'model').
 - Directory ./Data: Includes all necessary auxiliary files.
 
-The **main table** (`cif03.full_table.csv`) [190 rows, 2642 columns, 3.3 MB] contains astrometric and photometric data, fundamental parameters, and multiplicity information of all the stars in the sample and their physically bound components.
+The **main table** (`cif03.full_table.csv`) [2642 rows, 190 columns, 3.3 MB] contains astrometric and photometric data, fundamental parameters, and multiplicity information of all the stars in the sample and their physically bound components.
 It contains the following columns (columns for bibliographic references of each parameter are omitted for simplicity):
 
 | Topic | Columns | 
